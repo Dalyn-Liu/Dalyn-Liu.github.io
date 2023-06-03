@@ -19,6 +19,9 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>首发</category>
+      </categories>
   </entry>
   <entry>
     <title>js汉字排序</title>
@@ -27,6 +30,9 @@
 
 <p>🌂Q</p>
 ]]></content>
+      <categories>
+        <category>javascript</category>
+      </categories>
       <tags>
         <tag>javascript</tag>
       </tags>
